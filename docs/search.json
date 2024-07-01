@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ananya Saha",
+    "section": "",
+    "text": "I am a PhD candidate in the Population Biology, Ecology, and Evolution program at Emory University, Atlanta, GA. My research tries to understand the immune response dynamics against virus infections and how the virus evolves at the within host and population level.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research Publications",
+    "section": "",
+    "text": "Google Scolar link:"
+  }
+]
