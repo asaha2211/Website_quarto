@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
     "text": "About this site"
   },
@@ -18,6 +18,6 @@
     "href": "publications.html",
     "title": "Research Publications",
     "section": "",
-    "text": "Google Scolar link:"
+    "text": "List of research papers:\nGoogle Scholar link"
   }
 ]
